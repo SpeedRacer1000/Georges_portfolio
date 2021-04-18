@@ -1,10 +1,6 @@
 title: George Burbano # your name (or website title) here
 logo: "/images/Date_night.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
   <a href='https://www.linkedin.com/in/george-burbano-a10652178/'><button class='bodyButton button-blue' type="button" name="button">LinkedIn</button></a>
   
 theme: jekyll-theme-minimal
