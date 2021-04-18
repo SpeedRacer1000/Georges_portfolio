@@ -2,7 +2,6 @@
 
 ---
 
-### Category Name 1 
 [Project 1 Title](/pdf/sample_presentation.pdf)
 <img src="images/snake1.png?raw=true"/>
 
