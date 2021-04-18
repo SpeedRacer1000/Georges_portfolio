@@ -2,16 +2,16 @@
 
 ---
 
-[Project 1 Title](/pdf/sample_presentation.pdf)
+[Click anywhere to start](/pdf/sample_presentation.pdf)
 <img src="images/snake9.png?raw=true"/>
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[In game progress](/pdf/sample_presentation.pdf)
 <img src="images/snake2.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Game over + Score rating](http://example.com/)
 <img src="images/snake3.png?raw=true"/>
 
 ---
