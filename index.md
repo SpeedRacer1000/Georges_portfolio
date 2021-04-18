@@ -2,16 +2,16 @@
 
 ---
 
-[Click anywhere to start](/pdf/sample_presentation.pdf)
+[CLICK ANYWHERE TO START](/pdf/sample_presentation.pdf)
 <img src="images/snake9.png?raw=true"/>
 
 
 ---
-[In game progress](/pdf/sample_presentation.pdf)
+[IN GAME PROGRESS](/pdf/sample_presentation.pdf)
 <img src="images/snake2.png?raw=true"/>
 
 ---
-[Game over + Score rating](http://example.com/)
+[GAME OVER + SCORE RATING](http://example.com/)
 <img src="images/snake3.png?raw=true"/>
 
 ---
